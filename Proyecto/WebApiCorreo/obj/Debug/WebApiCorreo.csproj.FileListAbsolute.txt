@@ -1,0 +1,140 @@
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\WebApiCorreo.dll.config
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\WebApiCorreo.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\WebApiCorreo.pdb
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\csc.exe
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\csc.exe.config
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\csc.rsp
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\csi.exe
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\csi.exe.config
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\csi.rsp
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.AppContext.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.Collections.Immutable.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.Console.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.IO.Compression.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.IO.FileSystem.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.IO.Pipes.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.Reflection.Metadata.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.Security.AccessControl.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.Security.Claims.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.Security.Principal.Windows.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.ValueTuple.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.Xml.XPath.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\vbc.exe
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\vbc.exe.config
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\vbc.rsp
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\VBCSCompiler.exe
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\roslyn\VBCSCompiler.exe.config
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\Newtonsoft.Json.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\System.Net.Http.Formatting.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\System.Web.Http.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\System.Web.Http.WebHost.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\Newtonsoft.Json.xml
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\System.Net.Http.Formatting.xml
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\System.Web.Http.xml
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\System.Web.Http.WebHost.xml
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\es\System.Net.Http.Formatting.resources.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\es\System.Web.Http.resources.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\es\System.Web.Http.WebHost.resources.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\obj\Debug\WebApiCorreo.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\obj\Debug\WebApiCorreo.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\obj\Debug\WebApiCorreo.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\obj\Debug\WebApiCorreo.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\obj\Debug\WebApiCorreo.pdb
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\System.Web.Cors.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\System.Web.Http.Cors.dll
+D:\WorkSpaceAD\YOUTUBE\011_FUNCIONALIDAD ENVIAR CORREO\Proyecto\WebApiCorreo\bin\System.Web.Http.Cors.xml
+C:\test\Proyecto\WebApiCorreo\bin\WebApiCorreo.dll.config
+C:\test\Proyecto\WebApiCorreo\bin\WebApiCorreo.dll
+C:\test\Proyecto\WebApiCorreo\bin\WebApiCorreo.pdb
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\csc.exe
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\csc.exe.config
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\csc.rsp
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\csi.exe
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\csi.exe.config
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\csi.rsp
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.AppContext.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.Collections.Immutable.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.Console.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.IO.Compression.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.IO.FileSystem.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.IO.Pipes.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.Reflection.Metadata.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.Security.AccessControl.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.Security.Claims.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.ValueTuple.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.Xml.XPath.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\vbc.exe
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\vbc.exe.config
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\vbc.rsp
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\VBCSCompiler.exe
+C:\test\Proyecto\WebApiCorreo\bin\roslyn\VBCSCompiler.exe.config
+C:\test\Proyecto\WebApiCorreo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\test\Proyecto\WebApiCorreo\bin\Newtonsoft.Json.dll
+C:\test\Proyecto\WebApiCorreo\bin\System.Net.Http.Formatting.dll
+C:\test\Proyecto\WebApiCorreo\bin\System.Web.Cors.dll
+C:\test\Proyecto\WebApiCorreo\bin\System.Web.Http.Cors.dll
+C:\test\Proyecto\WebApiCorreo\bin\System.Web.Http.dll
+C:\test\Proyecto\WebApiCorreo\bin\System.Web.Http.WebHost.dll
+C:\test\Proyecto\WebApiCorreo\bin\System.Net.Http.Formatting.xml
+C:\test\Proyecto\WebApiCorreo\bin\System.Web.Http.xml
+C:\test\Proyecto\WebApiCorreo\bin\System.Web.Http.Cors.xml
+C:\test\Proyecto\WebApiCorreo\bin\Newtonsoft.Json.xml
+C:\test\Proyecto\WebApiCorreo\bin\System.Web.Http.WebHost.xml
+C:\test\Proyecto\WebApiCorreo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\test\Proyecto\WebApiCorreo\bin\es\System.Net.Http.Formatting.resources.dll
+C:\test\Proyecto\WebApiCorreo\bin\es\System.Web.Http.resources.dll
+C:\test\Proyecto\WebApiCorreo\bin\es\System.Web.Http.WebHost.resources.dll
+C:\test\Proyecto\WebApiCorreo\obj\Debug\WebApiCorreo.csproj.AssemblyReference.cache
+C:\test\Proyecto\WebApiCorreo\obj\Debug\WebApiCorreo.csproj.CoreCompileInputs.cache
+C:\test\Proyecto\WebApiCorreo\obj\Debug\WebApiCorreo.csproj.CopyComplete
+C:\test\Proyecto\WebApiCorreo\obj\Debug\WebApiCorreo.dll
+C:\test\Proyecto\WebApiCorreo\obj\Debug\WebApiCorreo.pdb
